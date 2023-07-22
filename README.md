@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akif32187&label=Profile%20views&color=0e75b6&style=flat" alt="sunjaree" /> </p>
 
 <p align="center">
-  <img src="analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif" width="500" alt="MasterHead">
+  <img src="https://analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif" width="500" alt="MasterHead">
 </p>
 
 
