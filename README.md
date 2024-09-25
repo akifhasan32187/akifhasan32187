@@ -7,7 +7,7 @@
 
 
 ### Hi there 👋, I am S.M. Ashraful Hasan 
-####  a CSE Graduate from North South University. I am passionate about Deep Learning, Natural Language Processing, Manual Testing and Test Automation.
+####  A CSE Graduate from North South University. I am passionate about Deep Learning, Natural Language Processing, Manual Testing and Test Automation.
 
 
 <p align="justify">
