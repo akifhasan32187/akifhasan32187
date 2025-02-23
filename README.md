@@ -7,7 +7,7 @@
 
 
 ### Hi there 👋, I am S.M. Ashraful Hasan 
-####  an Undergraduate Student and I have a strong passion for Deep Learning , Natural Language Processing and web development.
+####  A CSE Graduate from North South University. I am passionate about Deep Learning, Natural Language Processing, Manual Testing and Test Automation.
 
 
 <p align="justify">
