@@ -22,7 +22,7 @@ Skills: C / C++ / JAVA / Python /Pytorch/ Machine Learning / Deep Learning / Nat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/s-m-ashraful-hasan-072577283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-m-ashraful-hasan-072577283" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akif321870/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-m-ashraful-hasan-072577283" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18851547/akif-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="akif-hasan" height="30" width="40" /></a>
 </p>
 
